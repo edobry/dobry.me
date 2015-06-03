@@ -1,0 +1,19 @@
+{
+  "name": "dobry.me",
+  "version": "0.0.0",
+  "authors": [
+    "Eugene Dobry <edory@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "~1.1.6",
+    "requirejs": "~2.1.18"
+  }
+}
