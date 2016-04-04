@@ -73,3 +73,20 @@ h1 {
     right: 20px;
     cursor: pointer;
 }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#projects {
+    margin: 30px auto 0 auto;
+}
+
+#projects ul {
+    list-style-type: none;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
