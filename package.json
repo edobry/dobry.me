@@ -1,0 +1,15 @@
+{
+  "name": "dobry.me",
+  "version": "0.0.2",
+  "description": "edobry's site",
+  "main": "sudo node_modules/static/bin/static -p 80 -a 0.0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edobry/dobry.me.git"
+  },
+  "author": "Eugene Dobry <eugene@dobry.me>",
+  "homepage": "http://dobry.me",
+  "dependencies": {
+    "static": "^2.0.0"
+  }
+}
